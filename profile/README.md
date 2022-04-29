@@ -6,10 +6,6 @@
   </a>
 </div>
 
-<div align="left">
-  ![visitors](https://github.com/canarin-solutions?page_id=page.id&left_color=green&right_color=red)
-</div>
-
 
 <p align="center">
   <a href="https://aralroca.com">
@@ -19,12 +15,11 @@
 
                
 <br />
-<a href="https://aralroca.us8.list-manage.com/subscribe/post?u=29d99171aa3f671bde658475a&id=9f1a0b31e3">
-  <table align="right">
-      <tr>
-          <td>
-            👉 &nbsp;&nbsp;Subscribe to the newsletter
-          </td>
-      </tr>
-  </table>
-</a>
+<table align="right">
+    <tr>
+        <td>
+          👉 &nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=canarin-solutions)
+        </td>
+    </tr>
+</table>
+
