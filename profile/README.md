@@ -7,7 +7,7 @@
 </div>
 
 <div align="left">
-  ![visitors](https://github.com/canarin-solutions?left_color=green&right_color=red)
+  ![visitors](https://github.com/canarin-solutions?page_id=page.id&left_color=green&right_color=red)
 </div>
 
 
@@ -17,16 +17,7 @@
   </a>
 </p>
 
-                
-
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <br />
-  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
-  <br />
-  <br />
-</div>
-
+               
 <br />
 <a href="https://aralroca.us8.list-manage.com/subscribe/post?u=29d99171aa3f671bde658475a&id=9f1a0b31e3">
   <table align="right">
