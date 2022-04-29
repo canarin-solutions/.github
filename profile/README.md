@@ -15,11 +15,7 @@
 
                
 <br />
-<table align="right">
-    <tr>
-        <td>
-          👉 &nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=canarin-solutions)
-        </td>
-    </tr>
+<div align="right">
+  👉 &nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=canarin-solutions)
 </table>
 
