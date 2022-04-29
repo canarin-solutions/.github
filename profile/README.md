@@ -6,6 +6,11 @@
   </a>
 </div>
 
+<div align="left">
+  ![visitors](https://github.com/canarin-solutions?left_color=green&right_color=red)
+</div>
+
+
 <p align="center">
   <a href="https://aralroca.com">
 <!--     <img width="100" src="https://github.com/aralroca/aralroca.com/raw/master/public/images/logo.svg" alt="logo" /> -->
@@ -28,9 +33,6 @@
       <tr>
           <td>
             👉 &nbsp;&nbsp;Subscribe to the newsletter
-          </td>
-          <td>
-            👉 &nbsp;&nbsp;![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
           </td>
       </tr>
   </table>
